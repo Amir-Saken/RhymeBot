@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "covid19-api": "^1.2.1",
+    "jsdom": "^17.0.0",
+    "markup": "0.0.4",
+    "markup-js": "^1.5.21",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "node-fetch": "^2.6.1",
+    "node-random": "^1.0.1",
+    "node-telegram-bot-api": "^0.54.0",
+    "random": "^3.0.6",
+    "regexp": "^1.0.0",
+    "telegraf": "^3.39.0"
+  }
+}
